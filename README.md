@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **visitor tracking system**
 
-- 🌱 I’m currently learning **Flutter, dart, Javascript**
+- 🌱 I’m currently learning **Flutter, dart**
 
 - 👨‍💻 All of my projects are available at [https://www.ebuubeyd.com](https://www.ebuubeyd.com)
 
