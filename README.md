@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ebu ubeyd</h1>
+<h1 align="center">Hi 👋, I'm Ebu ubeyd Alpaslan</h1>
 <h3 align="center">I am a young man from Turkey with an investigative spirit who loves his job and values ​​innovation and development.</h3>
 
 <p align="left"> <a href="https://twitter.com/ebu_ubeyd" target="blank"><img src="https://img.shields.io/twitter/follow/ebu_ubeyd?logo=twitter&style=for-the-badge" alt="ebu_ubeyd" /></a> </p>
